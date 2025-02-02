@@ -10,7 +10,7 @@ Um simples jogo de **Amigo Secreto** onde você pode adicionar amigos, visualiza
 
 ## 🖥️ Acesse o Jogo  
 Clique no link abaixo para jogar:  
-🔗 [Jogar Amigo Secreto]([https://desafio-do-amigo-secreto-nu.vercel.app/])
+🔗 [Jogar Amigo Secreto](https://desafio-do-amigo-secreto-nu.vercel.app/)
 
 ## 📂 Tecnologias Utilizadas  
 - **HTML** → Estrutura da página  
